@@ -82,15 +82,6 @@
 </p>
 ---
  
-## 🏆 achievements
- 
-[![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)](https://github.com/Abhijeet-dhotre?achievement=pull-shark&tab=achievements)
-[![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)](https://github.com/Abhijeet-dhotre?achievement=yolo&tab=achievements)
- 
-*(YOLO badge? That's peak developer energy.)*
- 
----
- 
 ## 🌐 connect with me
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-dhotre-2783b42b2/)
