@@ -1,6 +1,9 @@
-# hey there, i'm Abhijeet Dhotre 👋
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=B.Tech+CSE+%40+MIT-WPU+Pune+%F0%9F%8E%93;Batch+of+2027+%7C+AI+%2B+Web+Dev+Enjoyer;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Abhijeet%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=55&descSize=18" width="100%"/>
+</div>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=B.Tech+CSE+%40+MIT-WPU+Pune+%F0%9F%8E%93;AI+Builder+%7C+Web+Dev+%7C+IoT+Tinkerer+%F0%9F%A4%96;Batch+of+2027+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</div>
 
 ## about me 🧑‍💻
  
@@ -14,16 +17,30 @@
 - 💬 Ask me about Python, AI integrations, WebSockets, or ESP32 shenanigans
 ---
  
-## 🚀 featured projects
+## 🛠️ Languages and Tools
  
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [🤖 ai-kid-robot](https://github.com/Abhijeet-dhotre/ai-kid-robot) | Child-friendly AI voice robot with emotion detection & TTS | HTML, ESP32-S3 |
-| [📚 AI-TUTOR](https://github.com/Abhijeet-dhotre/AI-TUTOR) | AI-powered personalized study planner & exam prep tool | TypeScript |
-| [🧠 jarvis-](https://github.com/Abhijeet-dhotre/jarvis-) | Python AI assistant with persistent memory & dual model support | Python |
-| [🔗 CodeShareX](https://github.com/Abhijeet-dhotre/CodeShareX) | Real-time collaborative editor + P2P file sharing | JavaScript, WebSockets, WebRTC |
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,html,css,react,nodejs,git,github,vscode,arduino&perline=7" />
+</div>
+
  
----
+## 🚀 Featured Projects
+ 
+<div align="center">
+<a href="https://github.com/Abhijeet-dhotre/ai-kid-robot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=ai-kid-robot&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abhijeet-dhotre/AI-TUTOR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=AI-TUTOR&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abhijeet-dhotre/jarvis-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=jarvis-&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Abhijeet-dhotre/CodeShareX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=CodeShareX&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
  
 ## 🛠️ tech stack
  
