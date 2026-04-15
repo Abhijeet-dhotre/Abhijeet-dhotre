@@ -5,17 +5,28 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=B.Tech+CSE+%40+MIT-WPU+Pune+%F0%9F%8E%93;AI+Builder+%7C+Web+Dev+%7C+IoT+Tinkerer+%F0%9F%A4%96;Batch+of+2027+%7C+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
-## about me 🧑‍💻
- 
-> 💡 I build AI assistants, real-time apps & robots — all before finishing my degree.
- 
-- 🔭 Currently working on **AI-powered tools & real-time web apps**
-- 🎓 B.Tech CSE @ **MIT-WPU Pune** · Batch of **2027**
-- 🤖 Obsessed with AI, IoT, and making things that *actually do stuff*
-- ⚡ Fun fact: My Jarvis talks back. Tony Stark would be proud.
-- 📍 Pune, Maharashtra, India
-- 💬 Ask me about Python, AI integrations, WebSockets, or ESP32 shenanigans
----
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 Abhijeet ✨ 
+
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 70%;">
+      <p>💡 I build <strong>AI assistants, real-time apps & robots</strong> </p>
+
+<ul>
+  <li>🔭 Currently working on <strong>AI-powered tools & real-time web apps</strong></li>
+  <li>🎓 B.Tech CSE @ <strong>MIT-WPU Pune</strong> · Batch of <strong>2027</strong></li>
+  <li>🤖 Obsessed with <strong>AI, IoT, and building things that actually work</strong></li>
+  <li>⚡ Fun fact: My Jarvis talks back. <em>Tony Stark would be proud.</em></li>
+  <li>📍 Pune, Maharashtra, India</li>
+  <li>💬 Ask me about <strong>Python, AI integrations, WebSockets, ESP32</strong></li>
+</ul>
+    </td>
+    <td style="text-align: right; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300" alt="Developer GIF"/> 
+    </td>
+  </tr>
+</table>
+
  
 ## 🛠️ Languages and Tools
  
