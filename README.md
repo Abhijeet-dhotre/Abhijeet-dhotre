@@ -1,8 +1,7 @@
 # hey there, i'm Abhijeet Dhotre 👋
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F77DD&width=435&lines=B.Tech+CSE+%40+MIT-WPU+Pune+%F0%9F%8E%93;Batch+of+2027+%7C+AI+%2B+Web+Dev+Enjoyer;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
----
- 
+
 ## about me 🧑‍💻
  
 > 💡 I build AI assistants, real-time apps & robots — all before finishing my degree.
