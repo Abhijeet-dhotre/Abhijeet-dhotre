@@ -22,7 +22,7 @@
 </ul>
     </td>
     <td style="text-align: right; vertical-align: top;">
-      <img src="image.jpeg" width="300" alt="Developer GIF"/> 
+      <img src="coding.gif" width="300" alt="Developer GIF"/> 
     </td>
   </tr>
 </table>
