@@ -34,23 +34,6 @@
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,html,css,react,nodejs,git,github,vscode,arduino&perline=7" />
 </div>
 
- 
-## 🚀 Featured Projects
- 
-<div align="center">
-<a href="https://github.com/Abhijeet-dhotre/ai-kid-robot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=ai-kid-robot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Abhijeet-dhotre/AI-TUTOR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=AI-TUTOR&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Abhijeet-dhotre/jarvis-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=jarvis-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Abhijeet-dhotre/CodeShareX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet-dhotre&repo=CodeShareX&theme=tokyonight&hide_border=true" />
-</a>
-</div>
 
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
